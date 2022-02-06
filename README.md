@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Praryo, I'm currently developing FiveM servers.
+
+My accounts and links:
+
+- [Discord Channel](https://discord.gg/dyG7Adrrm9)
+- [Website](https://praryo.com)
+- [Servers](https://servers.praryo.com)
+
 
 <!--
 **Praryo/Praryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
