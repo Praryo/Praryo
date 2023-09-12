@@ -10,7 +10,7 @@
 
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=au,autocad,azure,aws,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,grafana,html,instagram,java,js,jquery,laravel,linkedin,linux,lua,mysql,nginx,nodejs,php,py,regex,replit,sass,stackoverflow,svg,tailwind,twitter,ts,vercel,visualstudio,vscode,webpack" />
+        <img src="https://skillicons.dev/icons?i=au,autocad,azure,aws,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,grafana,html,instagram,java,js,jquery,laravel,linkedin,linux,lua,mysql,nginx,nodejs,php,py,regex,replit,sass,stackoverflow,svg,tailwind,twitter,ts,vercel,visualstudio,vscode" />
     </a>
 </p>
 </div>
